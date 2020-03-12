@@ -1,0 +1,1 @@
+Code integrates GSAP [https://greensock.com/gsap/] and ScrollMagic [https://scrollmagic.io/] scripts to re-create Apple's iphone 8 landing page. Both scripts are plug and play, quick to learn, and fun to tinker around with for fun or serious projects. 
